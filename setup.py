@@ -10,7 +10,7 @@ setup(
     description="A fork of the original Marzpy library to manage Marzban panel",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/Mewhrzad/marzpy-fork",  # URL на твой форк
+    url="https://github.com/vsskx/marzpy",
     keywords=["marzpy", "Marzban", "Gozargah", "Marzban python", "Marzban API"],
     packages=find_packages(),
     install_requires=["aiohttp"],
