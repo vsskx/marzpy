@@ -5,7 +5,7 @@ with open("README.md", "r") as file:
 
 setup(
     name="marzpy-fork", 
-    version="0.0.6",
+    version="0.0.7",
     author="Mewhrzad",
     description="A fork of the original Marzpy library to manage Marzban panel",
     long_description=readme,
